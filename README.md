@@ -2,4 +2,4 @@
 
 ---
 ### Potential force-field
-![Potential force-field](Planning_exam/potential force-field.png)
+![Potential force-field](Planning_exam/potential_force-field.png)
